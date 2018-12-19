@@ -1,0 +1,29 @@
+{
+   "compilerOptions": {
+           "baseUrl": ".",
+           "declaration": false,
+           "emitDecoratorMetadata": true,
+           "experimentalDecorators": true,
+           "lib": [
+                   "es2015",
+                   "dom",
+                   "es5",
+                   "es6"
+           ],
+           "module": "umd",
+           "moduleResolution": "node",
+           "noEmitHelpers": true,
+           "noEmitOnError": true,
+           "noImplicitAny": false,
+           "removeComments": true,
+           "sourceMap": false,
+           "suppressImplicitAnyIndexErrors": true,
+           "target": "es5",
+   },
+   "angularCompilerOptions": {
+           "skipMetadataEmit": false,
+           "enableSummariesForJit": true,
+           "fullTemplateTypeCheck": false,
+           "preserveWhitespaces": false
+   }
+}
