@@ -1,5 +1,6 @@
 node_modules
 app.js
+app.metadata.json
 app.ngfactory.js
 app.ngsummary.js
 app.ngsummary.json
