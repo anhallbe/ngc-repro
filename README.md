@@ -1,4 +1,4 @@
-# Reproducing https://github.com/angular/angular/issues/27749
+# Reproducing [angular #27749](https://github.com/angular/angular/issues/27749)
 1. Run `npm test` (or `./node_modules/.bin/ngc -w`)
 2. Notice contents of app.ngsummary.js:
 ```javascript
